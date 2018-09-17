@@ -1,7 +1,7 @@
 import { Component } from '@angular/core';
 
-// import { ethers } from 'ethers';
-import { ethers } from 'ethers2';
+import { ethers } from 'ethers';
+// import { ethers } from 'ethers2';
 
 
 @Component({
